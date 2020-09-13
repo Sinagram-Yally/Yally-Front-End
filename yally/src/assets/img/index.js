@@ -1,0 +1,6 @@
+export {default as background} from './background.png'
+export {default as moreButton} from './moreButton.png'
+export {default as playButton} from './playButton.png'
+export {default as profileEdit} from './profileEdit.png'
+export {default as search} from './search.png'
+export {default as yallyLogo} from './yallyLogo.png'
