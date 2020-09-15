@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const mainContainer = styled.div`
     display: flex;
-    margin: 0 392px;
+    margin: 0px 392px 100px 392px;
 `;
 
 export const mainSection  = styled.section`
